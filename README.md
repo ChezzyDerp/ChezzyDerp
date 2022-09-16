@@ -1,3 +1,4 @@
+
 ### Hi there 
 ##### I'm 16 y.o and I frontend developer.
 ##### At this moment I've learning ReactJS & Typescript 
@@ -11,4 +12,6 @@ https://github.com/CDS-Solutions/UI
 
 ### Contacts
 <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-##### ivantezin2@gmail.com
+
+    ivantezin2@gmail.com
+
